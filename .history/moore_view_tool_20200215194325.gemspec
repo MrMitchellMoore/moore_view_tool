@@ -5,8 +5,8 @@ require "moore_view_tool/version"
 Gem::Specification.new do |spec|
   spec.name          = "moore_view_tool"
   spec.version       = MooreViewTool::VERSION
-  spec.authors       = ["Mitchell Moore"]
-  spec.email         = ["mitchell@rubymaster.com"]
+  spec.authors       = ["TODO: Write your name"]
+  spec.email         = ["TODO: Write your email address"]
 
   spec.summary       = %q{Various view specific methods for applications I use.}
   spec.description   = %q{Provides generated HTML data for Rails Application.}
